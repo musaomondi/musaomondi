@@ -1,4 +1,4 @@
-## Hi there 👋, I'm Musa Amoke.
+## Hi there 👋,  I'm Musa Amoke.
 
 A Ruby on Rails engineer passionate about building scalable, maintainable applications and leveraging modern tools to improve developer productivity and application reliability.
 
@@ -36,9 +36,9 @@ A Ruby on Rails engineer passionate about building scalable, maintainable applic
 ---
 
 ### 📊 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=musaomondi&show_icons=true&theme=dark&count_private=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=musaomondi&layout=compact&theme=dark)
+![](https://github-readme-stats.vercel.app/api?username=musaomondi&theme=dark&hide_border=true&include_all_commits=false&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=musaomondi&theme=dark&hide_border=true)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=musaomondi&theme=dark&hide_border=true&include_all_commits=false&count_private=true&layout=compact)
 
 ---
 
