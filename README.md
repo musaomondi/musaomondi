@@ -1,51 +1,56 @@
-## Hi there 👋
-I'm a Ruby on Rails engineer passionate about building scalable, maintainable applications and leveraging modern tools to improve developer productivity and application reliability.
+## Hi there 👋, I'm Musa Amoke.
+
+A Ruby on Rails engineer passionate about building scalable, maintainable applications and leveraging modern tools to improve developer productivity and application reliability.
 
 ---
 
 ### 🚀 Technologies & Tools
+
 #### Ruby on Rails Ecosystem
-- **Ruby** & **Rails** – Expertise in Rails architecture, RESTful APIs, MVC design.
-- **RSpec** & **Minitest** – For comprehensive testing of Rails applications.
-- **Sidekiq** & **Resque** – Background jobs processing for handling asynchronous tasks.
-- **ActiveJob** – Rails framework for job scheduling with multiple backend integrations.
-- **Redis** – In-memory data store for caching and Sidekiq job queue.
+- ![Ruby](https://img.shields.io/badge/Ruby-CC342D?style=for-the-badge&logo=ruby&logoColor=white)
+  ![Rails](https://img.shields.io/badge/Rails-CC0000?style=for-the-badge&logo=rubyonrails&logoColor=white)
+- ![RSpec](https://img.shields.io/badge/RSpec-4B4B77?style=for-the-badge&logo=rspec&logoColor=white)
+- ![Sidekiq](https://img.shields.io/badge/Sidekiq-DD0031?style=for-the-badge&logo=sidekiq&logoColor=white)
+  ![Resque](https://img.shields.io/badge/Resque-4B4B77?style=for-the-badge)
+- ![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
 
 #### Deployment & CI/CD
-- **Docker** – Containerization for consistent environments across development, staging, and production.
-- **Kubernetes** – For orchestrating and managing containerized applications.
-- **Heroku** & **AWS** (Elastic Beanstalk, EC2, S3) – Deployment and infrastructure management.
-- **GitHub Actions** & **CircleCI** – Automated CI/CD pipelines to streamline testing and deployment.
-- **Capistrano** – For automated deployment and server management.
+- ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+- ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+- ![Heroku](https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white)
+  ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
+- ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
+  ![CircleCI](https://img.shields.io/badge/CircleCI-343434?style=for-the-badge&logo=circleci&logoColor=white)
+- ![Capistrano](https://img.shields.io/badge/Capistrano-4B4B77?style=for-the-badge)
   
 #### Application Monitoring & Analytics
-- **Datadog** & **New Relic** – Application performance monitoring and error tracking.
-- **Sentry** – Real-time error tracking for proactive bug fixing.
-- **ElasticSearch** & **Kibana** – Logging and log management.
+- ![Datadog](https://img.shields.io/badge/Datadog-632CA6?style=for-the-badge&logo=datadog&logoColor=white)
+- ![ElasticSearch](https://img.shields.io/badge/ElasticSearch-005571?style=for-the-badge&logo=elasticsearch&logoColor=white)
+
   
 #### Database & Data Management
-- **PostgreSQL** – Primary relational database for data storage and management.
-- **MySQL** – Database experience for applications with specific relational database needs.
-- **Redis** – Caching and background jobs storage.
+- ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+- ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+- ![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
 
 ---
 
 ### 📊 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=dark&count_private=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=musaomondi&show_icons=true&theme=dark&count_private=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=dark)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=musaomondi&layout=compact&theme=dark)
 
 ---
 
-### 🛠️ My DevOps Toolkit
-| Area                     | Tools                                                      |
-|--------------------------|------------------------------------------------------------|
-| **Version Control**      | Git, GitHub                                                |
-| **CI/CD**                | GitHub Actions, CircleCI, Jenkins                          |
-| **Deployment**           | Docker, Kubernetes, Heroku, AWS (Elastic Beanstalk, EC2)   |
-| **Background Jobs**      | Sidekiq, Resque, ActiveJob                                 |
-| **Monitoring & Logging** | Datadog, ElasticSearch, HonerBadger                        |
-| **Testing**              | RSpec, Minitest, Capybara                                  |
+### 🛠️ My Toolkit
+| Area                     | Tools                                                                                              |
+|--------------------------|----------------------------------------------------------------------------------------------------|
+| **Version Control**      | ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white), GitHub  |
+| **CI/CD**                | ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white), ![CircleCI](https://img.shields.io/badge/CircleCI-343434?style=for-the-badge&logo=circleci&logoColor=white) |
+| **Deployment**           | ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white), ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white), ![Heroku](https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white), ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white) |
+| **Background Jobs**      | ![Sidekiq](https://img.shields.io/badge/Sidekiq-DD0031?style=for-the-badge&logo=sidekiq&logoColor=white), ![Resque](https://img.shields.io/badge/Resque-4B4B77?style=for-the-badge), ActiveJob |
+| **Monitoring & Logging** | ![Datadog](https://img.shields.io/badge/Datadog-632CA6?style=for-the-badge&logo=datadog&logoColor=white), ![ElasticSearch](https://img.shields.io/badge/ElasticSearch-005571?style=for-the-badge&logo=elasticsearch&logoColor=white) |
+| **Testing**              | ![RSpec](https://img.shields.io/badge/RSpec-4B4B77?style=for-the-badge&logo=rspec&logoColor=white), Minitest, Capybara |
 
 ---
 
