@@ -7,12 +7,12 @@ A Ruby on Rails engineer passionate about building scalable, maintainable applic
 ### 🚀 Technologies & Tools
 
 #### Ruby on Rails Ecosystem
-- ![Ruby](https://img.shields.io/badge/Ruby-CC342D?style=for-the-badge&logo=ruby&logoColor=white)
-  ![Rails](https://img.shields.io/badge/Rails-CC0000?style=for-the-badge&logo=rubyonrails&logoColor=white)
-- ![RSpec](https://img.shields.io/badge/RSpec-4B4B77?style=for-the-badge&logo=rspec&logoColor=white)
-- ![Sidekiq](https://img.shields.io/badge/Sidekiq-DD0031?style=for-the-badge&logo=sidekiq&logoColor=white)
-  ![Resque](https://img.shields.io/badge/Resque-4B4B77?style=for-the-badge)
-- ![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+![Ruby](https://img.shields.io/badge/Ruby-CC342D?style=for-the-badge&logo=ruby&logoColor=white)
+![Rails](https://img.shields.io/badge/Rails-CC0000?style=for-the-badge&logo=rubyonrails&logoColor=white)
+![RSpec](https://img.shields.io/badge/RSpec-4B4B77?style=for-the-badge&logo=rspec&logoColor=white)
+![Sidekiq](https://img.shields.io/badge/Sidekiq-DD0031?style=for-the-badge&logo=sidekiq&logoColor=white)
+![Resque](https://img.shields.io/badge/Resque-4B4B77?style=for-the-badge)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
 
 #### Deployment & CI/CD
 - ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
