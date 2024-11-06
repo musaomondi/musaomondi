@@ -26,6 +26,7 @@ A Ruby on Rails engineer passionate about building scalable, maintainable applic
 #### Application Monitoring & Analytics
 ![Datadog](https://img.shields.io/badge/Datadog-632CA6?style=for-the-badge&logo=datadog&logoColor=white)
 ![ElasticSearch](https://img.shields.io/badge/ElasticSearch-005571?style=for-the-badge&logo=elasticsearch&logoColor=white)
+![Honeybadger](https://img.shields.io/badge/-Honeybadger-FFD700?style=flat&logo=honeybadger&logoColor=black)
 
   
 #### Database & Data Management
@@ -44,12 +45,12 @@ A Ruby on Rails engineer passionate about building scalable, maintainable applic
 ### 🛠️ My Toolkit
 | Area                     | Tools                                                                                              |
 |--------------------------|----------------------------------------------------------------------------------------------------|
-| **Version Control**      | ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white), GitHub  |
-| **CI/CD**                | ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white), ![CircleCI](https://img.shields.io/badge/CircleCI-343434?style=for-the-badge&logo=circleci&logoColor=white) |
-| **Deployment**           | ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white), ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white), ![Heroku](https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white), ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white) |
-| **Background Jobs**      | ![Sidekiq](https://img.shields.io/badge/Sidekiq-DD0031?style=for-the-badge&logo=sidekiq&logoColor=white), ![Resque](https://img.shields.io/badge/Resque-4B4B77?style=for-the-badge), ActiveJob |
-| **Monitoring & Logging** | ![Datadog](https://img.shields.io/badge/Datadog-632CA6?style=for-the-badge&logo=datadog&logoColor=white), ![ElasticSearch](https://img.shields.io/badge/ElasticSearch-005571?style=for-the-badge&logo=elasticsearch&logoColor=white) |
-| **Testing**              | ![RSpec](https://img.shields.io/badge/RSpec-4B4B77?style=for-the-badge&logo=rspec&logoColor=white), Minitest, Capybara |
+| **Version Control**      | ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)  ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white)  |
+| **CI/CD**                | ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)  ![CircleCI](https://img.shields.io/badge/CircleCI-343434?style=for-the-badge&logo=circleci&logoColor=white) |
+| **Deployment**           | ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)  ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)  ![Heroku](https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white)  ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white) |
+| **Background Jobs**      | ![Sidekiq](https://img.shields.io/badge/Sidekiq-DD0031?style=for-the-badge&logo=sidekiq&logoColor=white)  ![Resque](https://img.shields.io/badge/Resque-4B4B77?style=for-the-badge)  ![ActiveJob](https://img.shields.io/badge/-ActiveJob-5A67D8?style=flat&logo=ruby&logoColor=white) |
+| **Monitoring & Logging** | ![Datadog](https://img.shields.io/badge/Datadog-632CA6?style=for-the-badge&logo=datadog&logoColor=white)  ![ElasticSearch](https://img.shields.io/badge/ElasticSearch-005571?style=for-the-badge&logo=elasticsearch&logoColor=white)  ![Honeybadger](https://img.shields.io/badge/-Honeybadger-FFD700?style=flat&logo=honeybadger&logoColor=black) |
+| **Testing**              | ![RSpec](https://img.shields.io/badge/RSpec-4B4B77?style=for-the-badge&logo=rspec&logoColor=white)  ![Minitest](https://img.shields.io/badge/-Minitest-00C853?style=flat&logo=ruby&logoColor=white)  ![Capybara](https://img.shields.io/badge/-Capybara-7E22CE?style=flat&logo=ruby&logoColor=white) |
 
 ---
 
