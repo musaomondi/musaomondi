@@ -1,4 +1,5 @@
 ## Hi there 👋
+I'm Musa Amoke a software engineer based in Nairobi Kenya. 
 
 <!--
 **musaomondi/musaomondi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
